@@ -34,6 +34,9 @@ import dimod
 import matplotlib.pyplot as plt
 import dynex
 
+# Test Dynex account setup:
+dynex.test()
+
 # Protein sequence and grid dimensions
 sequence = "PPHPPHP" # HP = 7
 
